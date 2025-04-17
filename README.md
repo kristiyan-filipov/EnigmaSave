@@ -11,4 +11,4 @@ Download either the Windows or Linux executable in [releases](https://github.com
 You can configure the Enigma machine settings through the config.ini file, or directly through the input prompts given by the program. 
 
 The program reads the settings from the configuration file as long as it is in the same directory, 
-meaning you can easily share your settings with someone by simply sending them your configuration file.
+meaning you can easily share your settings with anyone by simply sending them your configuration file.
